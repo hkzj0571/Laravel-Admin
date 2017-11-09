@@ -1,4 +1,5 @@
 <p align="center"><img src="./logo.png" width="400px"></p>
+<p align="center"><img src="./show.jpg"></p>
 
 <p align="center">Laravel for Pjax the Admin</p>
 
